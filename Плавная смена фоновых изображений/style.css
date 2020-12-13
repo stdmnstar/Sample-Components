@@ -14,11 +14,11 @@ body {
     background: url("https://www.pngarts.com/files/7/Update-Button-PNG-Image.png");
     background-size: contain;
     background-repeat: no-repeat;
-    filter: grayscale(1);
+    filter: grayscale(0.8);
     margin: 10px;
   }
   .btn:hover {
-    filter: grayscale(.8);
+    filter: grayscale(.2);
   }
   .btn:active,
   .btn:focus {
